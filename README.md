@@ -1,1 +1,7 @@
-# remove_new_line_characters
+# requirement
+
+You need to install Python 3.0 in your system
+
+# run
+
+Click the run.bat
